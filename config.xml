@@ -1,0 +1,207 @@
+<?xml version="1.0" ?>
+<appSettings>
+	<textures>
+		<floor name="Floor">
+			<item name="146463_stock-photo-texture-of-floor">
+				<icon width="25" height="25">resources/textures/floor/icon/146463_stock-photo-texture-of-floor.jpg</icon>
+				<image>resources/textures/floor/146463_stock-photo-texture-of-floor.jpg</image>
+			</item>
+			<item name="1051065-ceramic-tile-wall-or-floor-texture">
+				<icon width="25" height="25">resources/textures/floor/icon/1051065-ceramic-tile-wall-or-floor-texture.jpg</icon>
+				<image>resources/textures/floor/1051065-ceramic-tile-wall-or-floor-texture.jpg</image>
+			</item>
+			<item name="3554335-wooden-parquet-flooring--close-up-seamless-tile">
+				<icon width="25" height="25">resources/textures/floor/icon/3554335-wooden-parquet-flooring--close-up-seamless-tile.jpg</icon>
+				<image>resources/textures/floor/3554335-wooden-parquet-flooring--close-up-seamless-tile.jpg</image>
+			</item>
+			<item name="brick-walk-texture">
+				<icon width="25" height="25">resources/textures/floor/icon/brick-walk-texture.jpg</icon>
+				<image>resources/textures/floor/brick-walk-texture.jpg</image>
+			</item>
+			<item name="floor-parquet">
+				<icon width="25" height="25">resources/textures/floor/icon/floor-parquet.jpg</icon>
+				<image>resources/textures/floor/floor-parquet.jpg</image>
+			</item>
+			<item name="light-hardwood-vinyl">
+				<icon width="25" height="25">resources/textures/floor/icon/light-hardwood-vinyl.jpg</icon>
+				<image>resources/textures/floor/light-hardwood-vinyl.jpg</image>
+			</item>
+			<item name="wood-floorboards-texture">
+				<icon width="25" height="25">resources/textures/floor/icon/wood-floorboards-texture.jpg</icon>
+				<image>resources/textures/floor/wood-floorboards-texture.jpg</image>
+			</item>
+			<item name="floortilebig1b">
+				<icon width="25" height="25">resources/textures/floor/icon/floortilebig1b.jpg</icon>
+				<image>resources/textures/floor/floortilebig1b.jpg</image>
+			</item>			
+			<item name="french_oak_grey_varnis_358_1">
+				<icon width="25" height="25">resources/textures/floor/icon/french_oak_grey_varnis_358_1.jpg</icon>
+				<image>resources/textures/floor/french_oak_grey_varnis_358_1.jpg</image>
+			</item>			
+			<item name="1573">
+				<icon width="25" height="25">resources/textures/floor/icon/1573.jpg</icon>
+				<image>resources/textures/floor/1573.jpg</image>
+			</item>			
+			<item name="greeck_mosaic">
+				<icon width="25" height="25">resources/textures/floor/icon/greeck_mosaic.png</icon>
+				<image>resources/textures/floor/greeck_mosaic.png</image>
+			</item>			
+			<item name="large_dark_stripe_wood_80565">
+				<icon width="25" height="25">resources/textures/floor/icon/large_dark_stripe_wood_80565.jpg</icon>
+				<image>resources/textures/floor/large_dark_stripe_wood_80565.jpeg</image>
+			</item>
+			<item name="wood-floor_21926">
+				<icon width="25" height="25">resources/textures/floor/icon/wood-floor_21926.jpg</icon>
+				<image>resources/textures/floor/wood-floor_21926.jpg</image>
+			</item>
+			<item name="wood-floor-texture">
+				<icon width="25" height="25">resources/textures/floor/icon/wood-floor-texture.jpg</icon>
+				<image>resources/textures/floor/wood-floor-texture.jpg</image>
+			</item>
+		</floor>
+		<walls name="Walls">
+			<item name="blue-stripes-texture">
+				<icon width="25" height="25">resources/textures/walls/icon/blue-stripes-texture.jpg</icon>
+				<image>resources/textures/walls/blue-stripes-texture.jpg</image>
+			</item>
+			<item name="blue-stripes-texture">
+				<icon width="25" height="25">resources/textures/walls/icon/Bumpy-Wall-Texture.jpg</icon>
+				<image>resources/textures/walls/Bumpy-Wall-Texture.jpg</image>
+			</item>
+			<item name="blue-stripes-texture">
+				<icon width="25" height="25">resources/textures/walls/icon/textures-pattern-red-wallpaper-victorian.jpg</icon>
+				<image>resources/textures/walls/textures-pattern-red-wallpaper-victorian.jpg</image>
+			</item>
+			<item name="textures_wallpaper_131_iphone-t2">
+				<icon width="25" height="25">resources/textures/walls/icon/textures_wallpaper_131_iphone-t2.jpg</icon>
+				<image>resources/textures/walls/textures_wallpaper_131_iphone-t2.jpg</image>
+			</item>
+			<item name="Wood-wall-texture">
+				<icon width="25" height="25">resources/textures/walls/icon/Wood-wall-texture.jpg</icon>
+				<image>resources/textures/walls/Wood-wall-texture.jpg</image>
+			</item>
+		</walls>
+	</textures>
+	<furniture>
+		<group name="Living Room">
+			<item name="classic-chair">
+				<icon>resources/furniture/Livingroom/icon/classic-chair.png</icon>
+				<image width="70" height="80">resources/furniture/Livingroom/classic-chair.png</image>
+				<object width="150" height="200" depth="150">resources/furniture/Livingroom/obj/classic-chair.obj</object>
+			</item>
+			<item name="divans1_divan">
+				<icon>resources/furniture/Livingroom/icon/divans1_divan.png</icon>
+				<image  width="250" height="148">resources/furniture/Livingroom/divans1_divan.png</image>
+				<object width="250" height="148" depth="150">resources/furniture/Livingroom/obj/divans1_kreslo.obj</object>
+			</item>
+			<item name="divans1_kreslo">
+				<icon>resources/furniture/Livingroom/icon/divans1_kreslo.png</icon>
+				<image width="100" height="86">resources/furniture/Livingroom/divans1_kreslo.png</image>
+				<object width="150" height="200" depth="150">resources/furniture/Livingroom/obj/divans1_kreslo.obj</object>
+			</item>
+			<item name="divans1_kreslo2">
+				<icon>resources/furniture/Livingroom/icon/divans1_kreslo2.png</icon>
+				<image width="130" height="86">resources/furniture/Livingroom/divans1_kreslo2.png</image>
+				<object width="150" height="200" depth="150">resources/furniture/Livingroom/obj/divans1_kreslo.obj</object>
+			</item>
+			<item name="tumba">
+				<icon>resources/furniture/Livingroom/icon/tumba.png</icon>
+				<image width="153" height="66">resources/furniture/Livingroom/tumba.png</image>
+				<object width="150" height="200" depth="150">resources/furniture/Livingroom/obj/divans1_kreslo.obj</object>
+			</item>
+			<item name="sofa">
+				<icon>resources/furniture/Livingroom/icon/sofa.png</icon>
+				<image width="220" height="90">resources/furniture/Livingroom/sofa.png</image>
+				<object width="150" height="200" depth="150">resources/furniture/Livingroom/obj/divans1_kreslo.obj</object>
+			</item>
+			<item name="big_sofa">
+				<icon>resources/furniture/Livingroom/icon/big_sofa.png</icon>
+				<image width="240" height="90">resources/furniture/Livingroom/big_sofa.png</image>
+				<object width="150" height="200" depth="150">resources/furniture/Livingroom/obj/divans1_kreslo.obj</object>
+			</item>
+			<item name="chair3">
+				<icon>resources/furniture/Livingroom/icon/chair3.png</icon>
+				<image width="85" height="85">resources/furniture/Livingroom/chair3.png</image>
+				<object width="150" height="200" depth="150">resources/furniture/Livingroom/obj/divans1_kreslo.obj</object>
+			</item>
+			<item name="chair">
+				<icon>resources/furniture/Livingroom/icon/chair.png</icon>
+				<image width="85" height="85">resources/furniture/Livingroom/chair.png</image>
+				<object width="150" height="200" depth="150">resources/furniture/Livingroom/obj/divans1_kreslo.obj</object>
+			</item>
+			<item name="tumba2">
+				<icon>resources/furniture/Livingroom/icon/tumba2.png</icon>
+				<image width="130" height="73">resources/furniture/Livingroom/tumba2.png</image>
+				<object width="150" height="200" depth="150">resources/furniture/Livingroom/obj/divans1_kreslo.obj</object>
+			</item>
+			<item name="sofa2">
+				<icon>resources/furniture/Livingroom/icon/sofa2.png</icon>
+				<image width="215" height="95">resources/furniture/Livingroom/sofa2.png</image>
+				<object width="150" height="200" depth="150">resources/furniture/Livingroom/obj/divans1_kreslo.obj</object>
+			</item>
+			<item name="small_sofa">
+				<icon>resources/furniture/Livingroom/icon/small_sofa.png</icon>
+				<image width="250" height="95">resources/furniture/Livingroom/small_sofa.png</image>
+				<object width="150" height="200" depth="150">resources/furniture/Livingroom/obj/divans1_kreslo.obj</object>
+			</item>
+			<item name="shkaf">
+				<icon>resources/furniture/Livingroom/icon/shkaf.png</icon>
+				<image width="115" height="65">resources/furniture/Livingroom/shkaf.png</image>
+				<object width="150" height="200" depth="150">resources/furniture/Livingroom/obj/divans1_kreslo.obj</object>
+			</item>
+			<item name="shkaf2">
+				<icon>resources/furniture/Livingroom/icon/shkaf2.png</icon>
+				<image width="170" height="65">resources/furniture/Livingroom/shkaf2.png</image>
+				<object width="150" height="200" depth="150">resources/furniture/Livingroom/obj/divans1_kreslo.obj</object>
+			</item>
+		</group>
+		<group name="Bedroom">
+			<item name="chair2">
+				<icon>resources/furniture/Bedroom/icon/chair2.png</icon>
+				<image width="65" height="65">resources/furniture/Bedroom/chair2.png</image>
+				<object width="150" height="200" depth="150">resources/furniture/Bedroom/obj/divans1_kreslo.obj</object>
+			</item>
+		</group>
+		<group name="Kitchen">
+			<item name="bench">
+				<icon>resources/furniture/Kitchen/icon/bench.png</icon>
+				<image width="133" height="55">resources/furniture/Kitchen/bench.png</image>
+				<object width="150" height="200" depth="150">resources/furniture/Kitchen/obj/divans1_kreslo.obj</object>
+			</item>
+			<item name="kid_chair">
+				<icon>resources/furniture/Kitchen/icon/kid_chair.png</icon>
+				<image width="65" height="65">resources/furniture/Kitchen/kid_chair.png</image>
+				<object width="150" height="200" depth="150">resources/furniture/Kitchen/obj/divans1_kreslo.obj</object>
+			</item>
+			<item name="bar_chair">
+				<icon>resources/furniture/Kitchen/icon/bar_chair.png</icon>
+				<image width="65" height="65">resources/furniture/Kitchen/bar_chair.png</image>
+				<object width="150" height="200" depth="150">resources/furniture/Kitchen/obj/divans1_kreslo.obj</object>
+			</item>
+			<item name="kitchen_table">
+				<icon>resources/furniture/Kitchen/icon/kitchen_table.png</icon>
+				<image width="140" height="140">resources/furniture/Kitchen/kitchen_table.png</image>
+				<object width="150" height="200" depth="150">resources/furniture/Kitchen/obj/divans1_kreslo.obj</object>
+			</item>
+			<item name="kid_table">
+				<icon>resources/furniture/Kitchen/icon/kid_table.png</icon>
+				<image width="110" height="110">resources/furniture/Kitchen/kid_table.png</image>
+				<object width="150" height="200" depth="150">resources/furniture/Kitchen/obj/divans1_kreslo.obj</object>
+			</item>
+			<item name="deck_chair">
+				<icon>resources/furniture/Kitchen/icon/deck_chair.png</icon>
+				<image width="130" height="75">resources/furniture/Kitchen/deck_chair.png</image>
+				<object width="150" height="200" depth="150">resources/furniture/Kitchen/obj/divans1_kreslo.obj</object>
+			</item>
+		</group>
+		<group name="Bathroom">
+			<item name="unitaz">
+				<icon>resources/furniture/Bathroom/icon/unitaz.png</icon>
+				<image width="70" height="80">resources/furniture/Bathroom/unitaz.png</image>
+				<object width="150" height="200" depth="150">resources/furniture/Bathroom/obj/divans1_kreslo.obj</object>
+			</item>
+		</group>
+		<group name="Acessories">
+		</group>
+	</furniture>
+</appSettings>
